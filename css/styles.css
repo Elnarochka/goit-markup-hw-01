@@ -1,3 +1,16 @@
 :root {
-    
+--main-font-family: 'Roboto', sans-serif;
+
+/* Color */
+--main-dark-color: #000;
+--main-line-color: #ffffff;
+--current-color: #2196F3;
+--main-color: #212121;
+--secondery-color: #757575;
+
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-family: var(--main-font-family)
 }
